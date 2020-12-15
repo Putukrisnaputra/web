@@ -1,0 +1,9 @@
+
+.container {
+  width: 50%;
+  margin-top: 9%;
+  box-shadow: 0 3px 20px rgb(17, 241, 17);
+  padding: 40px;
+  background-color: rgb(68, 165, 11);
+  margin: 6rem auto 8.1rem auto;
+}
